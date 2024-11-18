@@ -56,3 +56,5 @@ Las salidas son los archivos de texto
 - $${\color{purple}Frec}$$ contiene la frecuencia de ocurrencia por especie (fila) y por estación (columna)
 - $${\color{purple}Lista}$$ Lista con tres columnas, la primera corresponde al día, la segunda a la estación y la tercera a la especie
 
+
+Se muestran ejemplos de los archivos de salida
